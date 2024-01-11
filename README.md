@@ -1,7 +1,7 @@
 Hi 👋 My name is Faiz Aizat
 ===========================
 
-Software Engineer Student
+Software Engineering Student
 -------------------------
 
 I am studying Software Engineering at Universiti Teknologi Malaysia since 2023.
