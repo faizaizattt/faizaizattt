@@ -1,7 +1,7 @@
 Hi 👋 My name is Faiz Aizat
 ===========================
 
-Software Engineering Student
+Software Engineer Student
 -------------------------
 
 I am studying Software Engineering at Universiti Teknologi Malaysia since 2023.
@@ -30,7 +30,5 @@ I am studying Software Engineering at Universiti Teknologi Malaysia since 2023.
 <a href="http://www.github.com/faizaizattt"><img src="https://github-readme-stats.vercel.app/api?username=faizaizattt&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="faizaizattt's GitHub stats" /></a>
 
 <a href="http://www.github.com/faizaizattt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=faizaizattt&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/faizaizattt"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=faizaizattt&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/faizaizattt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizaizattt&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
