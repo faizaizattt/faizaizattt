@@ -1,7 +1,7 @@
 Hi 👋 My name is Faiz Aizat
 ===========================
 
-Software Engineer Student
+Software Engineering Student
 -------------------------
 
 Software Engineering student at Universiti Teknologi Malaysia since 2023. My GitHub is a collection of projects where I explore and apply what I'm learning. I enjoy creating efficient and innovative software solutions, aiming to contribute positively to the tech community. Open to collaborations and always excited about new challenges!
