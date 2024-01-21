@@ -11,6 +11,16 @@ Software Engineering student at Universiti Teknologi Malaysia since 2023. My Git
 * 🧠  I'm learning new languages and improve my coding skills.
 * ⚡  Hopefully become a successful person and have a good journey career.
 
+## Core
+Foundation in Engineering
+* Universiti Teknologi MARA
+* CGPA 4.00
+* Year : 2022/2023
+
+Bachelor of Computer Science (Software Engineering)
+* Universiti Teknologi Malaysia
+* Year : 2023 - Present
+
 ### Skills
 
 
